@@ -1,15 +1,15 @@
 {
-  "updated_date": "2026-11-13",
-  "updated_timestamp": "2026-11-13 07:20 AM ET",
+  "updated_date": "2026-11-16",
+  "updated_timestamp": "2026-11-16 07:02 AM ET",
   "region": "Southern NH, Rockingham & Hillsborough Counties, NH Seacoast & Merrimack Valley",
   "primary_town": "Danville, NH (03819)",
   "summary": {
     "lowest_oil_price": 5.149,
-    "average_oil_price": 5.417,
+    "average_oil_price": 5.434,
     "highest_oil_price": 5.899,
     "spread_per_gal": 0.75,
     "lowest_150_gal_cost": 772.35,
-    "average_150_gal_cost": 812.55,
+    "average_150_gal_cost": 815.1,
     "highest_150_gal_cost": 884.85,
     "spread_150_gal_savings": 112.5,
     "nh_eia_oil_benchmark": 6.03,
@@ -34,11 +34,11 @@
       "dealer_count": 12,
       "priced_dealer_count": 9,
       "lowest_price": 5.149,
-      "average_price": 5.314,
-      "highest_price": 5.5,
+      "average_price": 5.339,
+      "highest_price": 5.57,
       "cost_150_low": 772.35,
-      "cost_150_avg": 797.1,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 800.85,
+      "savings_150_vs_high": 63.15,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -51,11 +51,11 @@
       "dealer_count": 12,
       "priced_dealer_count": 9,
       "lowest_price": 5.149,
-      "average_price": 5.325,
-      "highest_price": 5.5,
+      "average_price": 5.314,
+      "highest_price": 5.499,
       "cost_150_low": 772.35,
-      "cost_150_avg": 798.75,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 797.1,
+      "savings_150_vs_high": 52.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -68,10 +68,10 @@
       "dealer_count": 15,
       "priced_dealer_count": 12,
       "lowest_price": 5.149,
-      "average_price": 5.409,
+      "average_price": 5.436,
       "highest_price": 5.799,
       "cost_150_low": 772.35,
-      "cost_150_avg": 811.35,
+      "cost_150_avg": 815.4,
       "savings_150_vs_high": 97.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "Fuel NRG"
@@ -85,11 +85,11 @@
       "dealer_count": 12,
       "priced_dealer_count": 9,
       "lowest_price": 5.149,
-      "average_price": 5.314,
-      "highest_price": 5.5,
+      "average_price": 5.303,
+      "highest_price": 5.499,
       "cost_150_low": 772.35,
-      "cost_150_avg": 797.1,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 795.45,
+      "savings_150_vs_high": 52.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -102,10 +102,10 @@
       "dealer_count": 11,
       "priced_dealer_count": 8,
       "lowest_price": 5.149,
-      "average_price": 5.398,
+      "average_price": 5.386,
       "highest_price": 5.749,
       "cost_150_low": 772.35,
-      "cost_150_avg": 809.7,
+      "cost_150_avg": 807.9,
       "savings_150_vs_high": 90.0,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -119,11 +119,11 @@
       "dealer_count": 13,
       "priced_dealer_count": 10,
       "lowest_price": 5.149,
-      "average_price": 5.316,
-      "highest_price": 5.5,
+      "average_price": 5.306,
+      "highest_price": 5.499,
       "cost_150_low": 772.35,
-      "cost_150_avg": 797.4,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 795.9,
+      "savings_150_vs_high": 52.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -136,10 +136,10 @@
       "dealer_count": 13,
       "priced_dealer_count": 12,
       "lowest_price": 5.149,
-      "average_price": 5.4,
+      "average_price": 5.392,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 810.0,
+      "cost_150_avg": 808.8,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -153,10 +153,10 @@
       "dealer_count": 12,
       "priced_dealer_count": 11,
       "lowest_price": 5.149,
-      "average_price": 5.4,
+      "average_price": 5.391,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 810.0,
+      "cost_150_avg": 808.65,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -170,11 +170,11 @@
       "dealer_count": 12,
       "priced_dealer_count": 9,
       "lowest_price": 5.149,
-      "average_price": 5.305,
-      "highest_price": 5.5,
+      "average_price": 5.294,
+      "highest_price": 5.499,
       "cost_150_low": 772.35,
-      "cost_150_avg": 795.75,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 794.1,
+      "savings_150_vs_high": 52.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -187,10 +187,10 @@
       "dealer_count": 15,
       "priced_dealer_count": 12,
       "lowest_price": 5.149,
-      "average_price": 5.4,
+      "average_price": 5.392,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 810.0,
+      "cost_150_avg": 808.8,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -204,11 +204,11 @@
       "dealer_count": 12,
       "priced_dealer_count": 10,
       "lowest_price": 5.149,
-      "average_price": 5.325,
-      "highest_price": 5.5,
+      "average_price": 5.315,
+      "highest_price": 5.499,
       "cost_150_low": 772.35,
-      "cost_150_avg": 798.75,
-      "savings_150_vs_high": 52.65,
+      "cost_150_avg": 797.25,
+      "savings_150_vs_high": 52.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
     },
@@ -221,10 +221,10 @@
       "dealer_count": 12,
       "priced_dealer_count": 11,
       "lowest_price": 5.149,
-      "average_price": 5.4,
+      "average_price": 5.391,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 810.0,
+      "cost_150_avg": 808.65,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -238,10 +238,10 @@
       "dealer_count": 8,
       "priced_dealer_count": 7,
       "lowest_price": 5.149,
-      "average_price": 5.438,
+      "average_price": 5.424,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 815.7,
+      "cost_150_avg": 813.6,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "Fuel NRG"
@@ -255,10 +255,10 @@
       "dealer_count": 11,
       "priced_dealer_count": 10,
       "lowest_price": 5.149,
-      "average_price": 5.489,
+      "average_price": 5.479,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 823.35,
+      "cost_150_avg": 821.85,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "Fuel NRG"
@@ -272,13 +272,13 @@
       "dealer_count": 10,
       "priced_dealer_count": 9,
       "lowest_price": 5.24,
-      "average_price": 5.452,
+      "average_price": 5.488,
       "highest_price": 5.799,
       "cost_150_low": 786.0,
-      "cost_150_avg": 817.8,
+      "cost_150_avg": 823.2,
       "savings_150_vs_high": 83.85,
       "savings_150_vs_state": 118.5,
-      "cheapest_dealer": "Flagship Fuel Co."
+      "cheapest_dealer": "Wicked Warm Discount Fuel"
     },
     {
       "slug": "epping-nh",
@@ -289,13 +289,13 @@
       "dealer_count": 11,
       "priced_dealer_count": 10,
       "lowest_price": 5.24,
-      "average_price": 5.452,
+      "average_price": 5.485,
       "highest_price": 5.799,
       "cost_150_low": 786.0,
-      "cost_150_avg": 817.8,
+      "cost_150_avg": 822.75,
       "savings_150_vs_high": 83.85,
       "savings_150_vs_state": 118.5,
-      "cheapest_dealer": "Flagship Fuel Co."
+      "cheapest_dealer": "Wicked Warm Discount Fuel"
     },
     {
       "slug": "raymond-nh",
@@ -306,10 +306,10 @@
       "dealer_count": 14,
       "priced_dealer_count": 12,
       "lowest_price": 5.149,
-      "average_price": 5.461,
+      "average_price": 5.489,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 819.15,
+      "cost_150_avg": 823.35,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "Fuel NRG"
@@ -323,10 +323,10 @@
       "dealer_count": 11,
       "priced_dealer_count": 10,
       "lowest_price": 5.149,
-      "average_price": 5.423,
+      "average_price": 5.413,
       "highest_price": 5.899,
       "cost_150_low": 772.35,
-      "cost_150_avg": 813.45,
+      "cost_150_avg": 811.95,
       "savings_150_vs_high": 112.5,
       "savings_150_vs_state": 132.15,
       "cheapest_dealer": "B & H Oil Company"
@@ -340,13 +340,13 @@
       "dealer_count": 10,
       "priced_dealer_count": 9,
       "lowest_price": 5.24,
-      "average_price": 5.452,
+      "average_price": 5.488,
       "highest_price": 5.799,
       "cost_150_low": 786.0,
-      "cost_150_avg": 817.8,
+      "cost_150_avg": 823.2,
       "savings_150_vs_high": 83.85,
       "savings_150_vs_state": 118.5,
-      "cheapest_dealer": "Flagship Fuel Co."
+      "cheapest_dealer": "Wicked Warm Discount Fuel"
     },
     {
       "slug": "hampton-nh",
@@ -357,13 +357,13 @@
       "dealer_count": 11,
       "priced_dealer_count": 10,
       "lowest_price": 5.24,
-      "average_price": 5.447,
+      "average_price": 5.48,
       "highest_price": 5.799,
       "cost_150_low": 786.0,
-      "cost_150_avg": 817.05,
+      "cost_150_avg": 822.0,
       "savings_150_vs_high": 83.85,
       "savings_150_vs_state": 118.5,
-      "cheapest_dealer": "Flagship Fuel Co."
+      "cheapest_dealer": "Wicked Warm Discount Fuel"
     },
     {
       "slug": "seabrook-nh",
@@ -374,13 +374,13 @@
       "dealer_count": 12,
       "priced_dealer_count": 10,
       "lowest_price": 5.24,
-      "average_price": 5.447,
+      "average_price": 5.48,
       "highest_price": 5.799,
       "cost_150_low": 786.0,
-      "cost_150_avg": 817.05,
+      "cost_150_avg": 822.0,
       "savings_150_vs_high": 83.85,
       "savings_150_vs_state": 118.5,
-      "cheapest_dealer": "Flagship Fuel Co."
+      "cheapest_dealer": "Wicked Warm Discount Fuel"
     },
     {
       "slug": "haverhill-ma",
@@ -391,11 +391,11 @@
       "dealer_count": 6,
       "priced_dealer_count": 4,
       "lowest_price": 5.159,
-      "average_price": 5.389,
-      "highest_price": 5.5,
+      "average_price": 5.364,
+      "highest_price": 5.499,
       "cost_150_low": 773.85,
-      "cost_150_avg": 808.35,
-      "savings_150_vs_high": 51.15,
+      "cost_150_avg": 804.6,
+      "savings_150_vs_high": 51.0,
       "savings_150_vs_state": 130.65,
       "cheapest_dealer": "Colonial Oil / County Energy Products"
     }
@@ -419,7 +419,7 @@
       "payment_terms": "Cash, Check, C.O.D., Credit Card",
       "notes": "Discounted rate ($5.499/gal) applies to orders of 150+ gallons. Family-owned in Salem since 1972.",
       "verified_source": "Direct Website (bandhoil.com) & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -457,7 +457,7 @@
       "payment_terms": "Cash/Check ($5.599) or Credit Card ($5.699)",
       "notes": "Lowest verified 100-gallon minimum price directly serving Danville, Windham, Derry, Salem, Nashua & Manchester.",
       "verified_source": "Direct Website (fuelnrg.co), OilAndElectric & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": true,
       "towns_served": [
         "Danville",
@@ -499,7 +499,7 @@
       "payment_terms": "Cash, Check, E-Check (+1.5% Credit Card)",
       "notes": "NH Heating Oil $5.579/gal; Heating Propane as low as $2.999/gal; $50 Oil / $100 Propane Referral Bonus.",
       "verified_source": "Direct Website (countyenergyproducts.com) & CheapHeatingOil",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Derry",
@@ -531,7 +531,7 @@
       "payment_terms": "Cash, Credit Card",
       "notes": "150-gallon minimum order; no night/weekend fees keeps daily C.O.D. rates low across Nashua & Southern NH.",
       "verified_source": "Direct Website (nashuafuel.com), OilAndElectric & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -548,38 +548,6 @@
         "Hudson",
         "Nashua",
         "Manchester"
-      ]
-    },
-    {
-      "id": "flagship-fuel",
-      "name": "Flagship Fuel Co.",
-      "hq_town": "Greenland",
-      "hq_state": "NH",
-      "price_per_gal": 5.24,
-      "credit_price_per_gal": 5.57,
-      "propane_price_per_gal": null,
-      "min_gallons": 150,
-      "phone": "(603) 988-0555",
-      "email": "team@flagshipfuelco.com",
-      "website": "https://flagshipfuelco.com",
-      "fuels": [
-        "Heating Oil",
-        "Diesel"
-      ],
-      "payment_terms": "Cash, Check, Credit/Debit Card",
-      "notes": "Fast online ordering serving Portsmouth, Hampton, Seabrook, Exeter, Kingston, and Epping.",
-      "verified_source": "GetHomeHeat & flagshipfuelco.com",
-      "last_checked": "2026-11-13",
-      "featured": false,
-      "towns_served": [
-        "Kingston",
-        "Epping",
-        "Exeter",
-        "Danville",
-        "Raymond",
-        "Portsmouth",
-        "Hampton",
-        "Seabrook"
       ]
     },
     {
@@ -600,7 +568,7 @@
       "payment_terms": "Online Order, Credit/Debit Card",
       "notes": "Discount online fuel ordering covering Portsmouth, Hampton, Seabrook, Exeter & Rockingham County.",
       "verified_source": "GetHomeHeat & wickedwarm.com",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Atkinson",
@@ -632,7 +600,7 @@
       "payment_terms": "Cash or Credit Card (same price $5.69/gal)",
       "notes": "100-gallon minimum; same low rate for cash or card. Based at 39 Rockingham Rd, Londonderry.",
       "verified_source": "Direct Website (snhenergy.com), CheapHeatingOil & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -648,37 +616,6 @@
         "Pelham",
         "Hudson",
         "Manchester"
-      ]
-    },
-    {
-      "id": "discount-energy",
-      "name": "Discount Energy",
-      "hq_town": "Rochester",
-      "hq_state": "NH",
-      "price_per_gal": 5.3,
-      "credit_price_per_gal": 5.79,
-      "propane_price_per_gal": null,
-      "min_gallons": 100,
-      "phone": "(603) 335-3007",
-      "email": null,
-      "website": "https://www.discountenergy.org",
-      "fuels": [
-        "Heating Oil",
-        "Kerosene"
-      ],
-      "payment_terms": "Credit Card, Debit Card, Check",
-      "notes": "100-gallon minimum order serving Kingston, Epping, Raymond, Exeter, and the NH Seacoast.",
-      "verified_source": "GetHomeHeat & discountenergy.org",
-      "last_checked": "2026-11-13",
-      "featured": false,
-      "towns_served": [
-        "Kingston",
-        "Epping",
-        "Raymond",
-        "Exeter",
-        "Portsmouth",
-        "Hampton",
-        "Seabrook"
       ]
     },
     {
@@ -699,7 +636,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Local since 2006; $5.799/gal premium heating oil across the NH Seacoast & Rockingham County.",
       "verified_source": "Direct Website (granitestateoil.com) & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Hampstead",
@@ -732,7 +669,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "$5.799/gal will-call or $5.699/gal with automatic delivery. Full-service Seacoast & Rockingham oil & propane.",
       "verified_source": "Direct Website (mackenziefuels.com) & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -773,7 +710,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Veteran-owned supplier with Hampstead NH & Haverhill MA terminals ($5.85\u2013$5.949/gal).",
       "verified_source": "GetHomeHeat ($5.85) & OilAndElectric ($5.949)",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -796,6 +733,84 @@
       ]
     },
     {
+      "id": "discount-energy",
+      "name": "Discount Energy",
+      "hq_town": "Rochester",
+      "hq_state": "NH",
+      "price_per_gal": 5.4,
+      "credit_price_per_gal": 5.79,
+      "propane_price_per_gal": null,
+      "min_gallons": 100,
+      "phone": "(603) 335-3007",
+      "email": null,
+      "website": "https://www.discountenergy.org",
+      "fuels": [
+        "Heating Oil",
+        "Kerosene"
+      ],
+      "payment_terms": "Credit Card, Debit Card, Check",
+      "notes": "100-gallon minimum order serving Kingston, Epping, Raymond, Exeter, and the NH Seacoast.",
+      "verified_source": "GetHomeHeat & discountenergy.org",
+      "last_checked": "2026-11-16",
+      "featured": false,
+      "towns_served": [
+        "Kingston",
+        "Epping",
+        "Raymond",
+        "Exeter",
+        "Portsmouth",
+        "Hampton",
+        "Seabrook"
+      ]
+    },
+    {
+      "id": "haffners",
+      "name": "Haffner's Energy",
+      "hq_town": "Plaistow / Lawrence",
+      "hq_state": "NH/MA",
+      "price_per_gal": 5.4,
+      "credit_price_per_gal": 5.9,
+      "propane_price_per_gal": null,
+      "min_gallons": 150,
+      "phone": "(866) 485-4257",
+      "email": null,
+      "website": "https://www.haffners.com",
+      "fuels": [
+        "Heating Oil",
+        "Propane",
+        "Kerosene"
+      ],
+      "payment_terms": "Credit Card, Check (Senior Discount Available)",
+      "notes": "Major Merrimack Valley, Seacoast & Southern NH oil and propane supplier serving all 22 local towns.",
+      "verified_source": "GetHomeHeat & haffners.com",
+      "last_checked": "2026-11-16",
+      "featured": false,
+      "towns_served": [
+        "Danville",
+        "Hampstead",
+        "Kingston",
+        "Sandown",
+        "Plaistow",
+        "Atkinson",
+        "Derry",
+        "Londonderry",
+        "Salem",
+        "Exeter",
+        "Epping",
+        "Raymond",
+        "Chester",
+        "Haverhill",
+        "Windham",
+        "Pelham",
+        "Hudson",
+        "Nashua",
+        "Manchester",
+        "Portsmouth",
+        "Hampton",
+        "Seabrook"
+      ]
+    },
+    {
       "id": "hebert-fuel-co",
       "name": "Hebert Fuel Co.",
       "hq_town": "Allenstown",
@@ -813,7 +828,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Serves Manchester, Pelham, and Western/Northern Rockingham County including Epping, Raymond, and Chester.",
       "verified_source": "GetHomeHeat & hebertfuel.com",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Epping",
@@ -842,7 +857,7 @@
       "payment_terms": "Cash, Check, Credit Card (Senior Discount Available)",
       "notes": "Posted cash price $5.799/gal (150-gallon minimum). Senior discount & 24hr service across Nashua, Hudson, Pelham & Windham.",
       "verified_source": "Direct Website (shattuckoil.com) & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Derry",
@@ -873,7 +888,7 @@
       "payment_terms": "Cash/Prompt Pay, Credit Card, Budget Plans",
       "notes": "Cash price of the day: Heating Oil $5.899/gal, Heating Propane $3.399/gal (>1,000 gal/yr), K-1 $7.099/gal.",
       "verified_source": "Direct Website (buxtonoil.com), OilAndElectric & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -900,47 +915,32 @@
       ]
     },
     {
-      "id": "haffners",
-      "name": "Haffner's Energy",
-      "hq_town": "Plaistow / Lawrence",
-      "hq_state": "NH/MA",
-      "price_per_gal": 5.5,
-      "credit_price_per_gal": 5.9,
+      "id": "flagship-fuel",
+      "name": "Flagship Fuel Co.",
+      "hq_town": "Greenland",
+      "hq_state": "NH",
+      "price_per_gal": 5.57,
+      "credit_price_per_gal": 5.57,
       "propane_price_per_gal": null,
       "min_gallons": 150,
-      "phone": "(866) 485-4257",
-      "email": null,
-      "website": "https://www.haffners.com",
+      "phone": "(603) 988-0555",
+      "email": "team@flagshipfuelco.com",
+      "website": "https://flagshipfuelco.com",
       "fuels": [
         "Heating Oil",
-        "Propane",
-        "Kerosene"
+        "Diesel"
       ],
-      "payment_terms": "Credit Card, Check (Senior Discount Available)",
-      "notes": "Major Merrimack Valley, Seacoast & Southern NH oil and propane supplier serving all 22 local towns.",
-      "verified_source": "GetHomeHeat & haffners.com",
-      "last_checked": "2026-11-13",
+      "payment_terms": "Cash, Check, Credit/Debit Card",
+      "notes": "Fast online ordering serving Portsmouth, Hampton, Seabrook, Exeter, Kingston, and Epping.",
+      "verified_source": "GetHomeHeat & flagshipfuelco.com",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
-        "Danville",
-        "Hampstead",
         "Kingston",
-        "Sandown",
-        "Plaistow",
-        "Atkinson",
-        "Derry",
-        "Londonderry",
-        "Salem",
-        "Exeter",
         "Epping",
+        "Exeter",
+        "Danville",
         "Raymond",
-        "Chester",
-        "Haverhill",
-        "Windham",
-        "Pelham",
-        "Hudson",
-        "Nashua",
-        "Manchester",
         "Portsmouth",
         "Hampton",
         "Seabrook"
@@ -964,7 +964,7 @@
       "payment_terms": "Cash on Delivery (-$0.02/gal) or Card when ordering",
       "notes": "100-149 gallon orders $5.70/gal; cash on delivery saves an extra $0.02/gal ($5.68/gal).",
       "verified_source": "CheapHeatingOil (Manchester/Derry NH)",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Derry",
@@ -996,7 +996,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Heating oil $5.749/gal cash ($5.899 retail); K-1 Kerosene $6.899/gal across Seacoast & Exeter.",
       "verified_source": "Direct Website (nibrocoil.com) & GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Plaistow",
@@ -1028,7 +1028,7 @@
       "payment_terms": "Cash, Check, Card, Pre-Buy / Budget",
       "notes": "Full-service oil, K-1 kerosene & propane covering Portsmouth, Hampton, Exeter, Seacoast & Manchester routes.",
       "verified_source": "CheapHeatingOil & fieldingsoil.com",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Exeter",
@@ -1059,7 +1059,7 @@
       "payment_terms": "Cash, Check, Credit/Debit Card",
       "notes": "100-gallon minimum order; 24-hour emergency burner & HVAC service across Manchester & Southern NH.",
       "verified_source": "OilAndElectric ($5.899) & GetHomeHeat ($5.90)",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Derry",
@@ -1091,7 +1091,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Hometown Plaistow oil dealer serving Danville, Plaistow, Hampstead, Kingston, Sandown, Atkinson, Windham & Pelham. Call for today's cash price.",
       "verified_source": "GetHomeHeat & leosfuelnh.com",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -1125,7 +1125,7 @@
       "payment_terms": "Auto-Delivery, Will-Call, Budget & Price Cap Plans",
       "notes": "Family-owned in Atkinson, NH (13 Hall Farm Rd) for 90+ years. Premier Southern NH propane & oil provider (call for daily C.O.D. oil quote; NH EIA propane benchmark $3.843/gal).",
       "verified_source": "palmergas.com & US EIA NH Propane Survey",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -1171,7 +1171,7 @@
       "payment_terms": "Cash, Check, Credit Card",
       "notes": "Local Haverhill oil & propane dealer delivering across border towns (Danville, Plaistow, Hampstead, Atkinson, Kingston, Salem, Windham, Seabrook).",
       "verified_source": "GetHomeHeat",
-      "last_checked": "2026-11-13",
+      "last_checked": "2026-11-16",
       "featured": false,
       "towns_served": [
         "Danville",
@@ -1188,21 +1188,6 @@
     }
   ],
   "danville_30d_history": [
-    {
-      "date": "2026-10-15",
-      "lowest": 5.6,
-      "median": 5.87
-    },
-    {
-      "date": "2026-10-16",
-      "lowest": 5.6,
-      "median": 5.87
-    },
-    {
-      "date": "2026-10-17",
-      "lowest": 5.6,
-      "median": 5.87
-    },
     {
       "date": "2026-10-18",
       "lowest": 5.6,
@@ -1254,9 +1239,9 @@
       "median": 5.9
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "lowest": 5.15,
-      "median": 5.31
+      "median": 5.34
     }
   ]
 }
